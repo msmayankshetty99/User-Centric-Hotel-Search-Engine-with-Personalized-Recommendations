@@ -1,3 +1,5 @@
+**NOTE:** _Forked repository to showcase my contribution to the project, as I specifically worked on **Pre-trained Word2Vec + Word2Vec log-likelihood (one vector per word) [Average of all vectors in a particular document]** using the **GloVe Common Crawl Model (840B tokens, 2.2M vocab, 300d vectors)**, along with the **development of the search engine pipeline** and the **integration of the other three search methodologies** within the project's pipeline._
+
 # User-Centric-Hotel-Search-Engine-with-Personalized-Recommendations
 ## Hotel Search Engine: Personalized Recommendations
 
